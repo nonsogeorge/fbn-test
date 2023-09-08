@@ -1,0 +1,9 @@
+[07-Sep-2023 22:59:15 UTC] PHP Warning:  Attempt to read property "public" on null in /home5/ditwo2/interraktu-parked/fbn-test/wp-content/mu-plugins/endurance-page-cache.php on line 544
+[08-Sep-2023 00:23:09 UTC] PHP Warning:  Attempt to read property "title" on null in /home5/ditwo2/interraktu-parked/fbn-test/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Sep-2023 00:24:41 UTC] PHP Warning:  Attempt to read property "title" on null in /home5/ditwo2/interraktu-parked/fbn-test/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Sep-2023 01:13:41 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home5/ditwo2/interraktu-parked/fbn-test/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 171
+[08-Sep-2023 01:15:54 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home5/ditwo2/interraktu-parked/fbn-test/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 171
+[08-Sep-2023 01:15:54 UTC] PHP Warning:  Undefined array key "data" in /home5/ditwo2/interraktu-parked/fbn-test/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[08-Sep-2023 01:15:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home5/ditwo2/interraktu-parked/fbn-test/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[08-Sep-2023 09:14:24 UTC] PHP Warning:  Undefined array key "data" in /home5/ditwo2/interraktu-parked/fbn-test/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
+[08-Sep-2023 09:22:21 UTC] PHP Warning:  Undefined array key "data" in /home5/ditwo2/interraktu-parked/fbn-test/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 175
